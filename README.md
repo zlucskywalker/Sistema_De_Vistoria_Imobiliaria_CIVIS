@@ -125,7 +125,7 @@ Requisitos:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/PeepT/CIVIS-Sistema_de_Vistoria.git
+git clone https://github.com/zlucskywalker/Sistema_De_Vistoria_Imobiliaria_CIVIS.git
 ```
 
 ### 2. Instale as dependências do frontend/backend
